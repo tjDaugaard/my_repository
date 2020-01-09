@@ -1,4 +1,5 @@
 # my_repository
 
-Dette er en readme-fil
+Dette er en readme-fil.
 
+Test.
